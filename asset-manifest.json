@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Basic-Image-Editor.git/static/css/main.6e231797.css",
+    "main.js": "/Basic-Image-Editor.git/static/js/main.d434aca3.js",
+    "index.html": "/Basic-Image-Editor.git/index.html",
+    "main.6e231797.css.map": "/Basic-Image-Editor.git/static/css/main.6e231797.css.map",
+    "main.d434aca3.js.map": "/Basic-Image-Editor.git/static/js/main.d434aca3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e231797.css",
+    "static/js/main.d434aca3.js"
+  ]
+}
